@@ -15,7 +15,7 @@ Repositório criado para resolver o desafio Kaggle Titanic. A solução criada e
 ## Técnicas e modelos utilizados
 * Label encoder
 * One-Hot encoder
-* Criação de features
+* Feature engineering
 * Random Grid
 * Grid Seach
 * K-fold
